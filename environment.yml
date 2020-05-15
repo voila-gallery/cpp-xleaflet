@@ -2,6 +2,6 @@ name: voila-gallery-xstack
 channels:
   - conda-forge
 dependencies:
-  - voila=0.1.17
-  - xleaflet=0.10.0
-  - xeus-cling=0.7.1
+  - voila=0.1.21
+  - xleaflet=0.11.1
+  - xeus-cling=0.8.1
